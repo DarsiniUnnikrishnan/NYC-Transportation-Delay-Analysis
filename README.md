@@ -60,5 +60,13 @@ As a **Data Analyst**, I was tasked by the **New York Division of Transportation
   - Highlighted borough-specific challenges, enabling targeted solutions.
 - **Data-Driven Strategies**:
   - Recommended operational adjustments to reduce delays during peak periods.
+    
 
+---
+
+## 📁 Access the Complete Project
+The entire project file, including raw data, analysis, and visualizations, can be accessed via the link below:  
+[Access the Complete Project]https://1drv.ms/x/c/fb2d0c712fd2511d/ESV3rZH0w-FEvcCrlNXdOK4BNjlwm2GZS4Qt721uePxgNw?e=qQvl1T
+
+---
 
